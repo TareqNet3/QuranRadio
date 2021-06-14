@@ -8,7 +8,6 @@
 	"permissions":
 	[
 		"background",
-		"idle",
 		"http://tareq.tk/*",
 		"http://*.tareq.tk/*",
 		"https://tareq.tk/*",
