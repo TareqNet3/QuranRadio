@@ -1,7 +1,7 @@
 {
 	"name": "Quran Radio",
 	"description": "The Holy Quran Kareem Radio from mp3quran.net .",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"manifest_version": 2,
 	"homepage_url": "http://labs.tareq.tk/ChromeEx/QuranRadio",
 	"update_url": "https://clients2.google.com/service/update2/crx",
